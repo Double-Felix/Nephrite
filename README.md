@@ -1,2 +1,2 @@
 # Nephrite
-A sandbox for minecraft commands
+A minecraft commands sandbox
